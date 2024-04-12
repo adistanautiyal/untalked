@@ -1,0 +1,5 @@
+.nav-bg{
+    background: scrollrgb(255,255,255);
+    
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(239,206,173,1) 24%, rgba(155,107,67,1) 46%, rgba(142,84,49,1) 70%, rgba(116,76,36,1) 100%);
+}
